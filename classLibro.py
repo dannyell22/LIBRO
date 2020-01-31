@@ -9,7 +9,7 @@ class Libro:
 
         f = open("text.txt", "a")
         f.write(self.titulo + "-")
-        f.write(self.autor + "")
+        f.write(self.autor + "\n")
         f.close()
 
     def consultar(self):
