@@ -15,3 +15,6 @@ class Libro:
     def consultar(self):
         f = open("text.txt", "r")
         print(f.read())
+    
+    def validar(self):
+        f = open("text.txt")
