@@ -4,11 +4,11 @@ class Menu:
     def __init__(self):
         self.libro1 = Libro()
     def menu(self): 
-        print("Elige la opción")
+        print("Elige la opción" , "\n")
         print("\t1 - Guardar")
         print("\t2 - Consultar")
         print("\t3 - tercera opción")
-        print("\t9 - salir")
+        print("\t9 - salir" , "\n")
     def menu2(self):
         while True:
             opcionMenu = input("inserta un numero valor >> ")

@@ -5,8 +5,8 @@ class Libro:
     autor = ''
 #1º METODO PARA GUARDAR
     def guardar(self):
-        print(self.titulo)
-        print(self.autor)
+        print("Registro guardado")
+
         f = open("text.txt", "a")
         f.write(self.titulo + "-")
         f.write(self.autor + "\n")
