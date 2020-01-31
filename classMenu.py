@@ -1,4 +1,3 @@
-#jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
 from classLibro import Libro
 class Menu:
     
