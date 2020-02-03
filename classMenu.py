@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-
-=======
->>>>>>> 2ca5363cc0a4dd47c1b4e638711f7a3794e325fe
 from classLibro import Libro
 class Menu:
     
@@ -18,8 +14,6 @@ class Menu:
             opcionMenu = input("inserta un numero valor >> ")
 
             if opcionMenu == "1":
-                self.libro1.titulo = input("Indica el título de un libro: ")
-                self.libro1.autor = input("Indica el autor: ")
                 self.libro1.guardar()
             elif opcionMenu == "2":
                 self.libro1.consultar() 
