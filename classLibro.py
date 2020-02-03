@@ -6,11 +6,25 @@ class Libro:
 
 #1º METODO PARA GUARDAR
     def guardar(self):
-        print("Registro guardado") 
-        f = open("text.txt", "a")
+        self.titulo = input("Indica el título de un libro: ")
+        self.autor = input("Indica el autor: ")
+        f = open("text.txt", "r")
+        lectura=f.read()
+        resultado=lectura.find(self.titulo)
        
-        f.write(self.titulo + "-")
-        f.write(self.autor + "\n")
+        
+        if resultado<0:
+            print("no existe")
+            f = open("text.txt", "a")
+            f.write(self.titulo + "-")
+            f.write(self.autor + "\n")
+        else:
+            print("libro ya existe")
+        
+      
+        
+            
+
         f.close()
 
     def consultar(self):
