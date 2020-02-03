@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> 2ca5363cc0a4dd47c1b4e638711f7a3794e325fe
 from classLibro import Libro
 class Menu:
     
