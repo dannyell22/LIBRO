@@ -1,3 +1,4 @@
+from classLibro import Libro
 class Menu:
     
     def __init__(self):
