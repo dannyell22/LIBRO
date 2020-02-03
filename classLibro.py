@@ -3,8 +3,10 @@ import os
 class Libro:
     titulo = ''
     autor = ''
+
 #1º METODO PARA GUARDAR
     def guardar(self):
+<<<<<<< HEAD
         self.titulo = input("Indica el título de un libro: ")
         self.autor = input("Indica el autor: ")
         f = open("text.txt", "r")
@@ -29,6 +31,13 @@ class Libro:
         else:"""
         
             
+=======
+        print("Registro guardado") 
+        f = open("text.txt", "a")
+       
+        f.write(self.titulo + "-")
+        f.write(self.autor + "\n")
+>>>>>>> c8ba02773d6a1f0b611afab45c0986c6c884569a
         f.close()
 
     def consultar(self):
