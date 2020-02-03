@@ -1,4 +1,8 @@
 eeee-rrrr
 uuu-iii
+<<<<<<< HEAD
 ffff-uuuu
 rrrrrrrrr-eeeeeeeeee
+=======
+ffff-uuuuu
+>>>>>>> df27cf403e56bc6ac5af50867663c1940bb9d8a7
