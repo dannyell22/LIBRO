@@ -3,11 +3,14 @@ import os
 class Libro:
     titulo = ''
     autor = ''
+
 #1º METODO PARA GUARDAR
     def guardar(self):
-        print("Registro guardado")
-
+        print("Registro guardado") 
         f = open("text.txt", "a")
+        leer 
+        find
+        comparar
         f.write(self.titulo + "-")
         f.write(self.autor + "\n")
         f.close()
