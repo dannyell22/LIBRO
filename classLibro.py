@@ -8,9 +8,7 @@ class Libro:
     def guardar(self):
         print("Registro guardado") 
         f = open("text.txt", "a")
-        leer 
-        find
-        comparar
+       
         f.write(self.titulo + "-")
         f.write(self.autor + "\n")
         f.close()
