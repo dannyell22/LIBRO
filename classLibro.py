@@ -1,3 +1,5 @@
+
+
 import os   
 #EMPIEZA LA CLASE
 class Libro:
@@ -33,3 +35,17 @@ class Libro:
     
     def validar(self):
         f = open("text.txt")
+        
+    def eliminar(self):
+        self.titulo = input("Indica el título de un libro: ")
+        f = open("text.txt", "r")
+        lineas = f.readlines()
+        f.close()
+        f = open("text.txt","w")
+        for linea in lineas:
+            if linea!= self.titulo +"\n":
+                f.write(linea)
+        f.close()
+        
+       
+       
