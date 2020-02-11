@@ -7,7 +7,7 @@ class Menu:
         print("Elige la opción" , "\n")
         print("\t1 - Guardar")
         print("\t2 - Consultar")
-        print("\t3 - tercera opción")
+        print("\t3 - Eliminar")
         print("\t9 - salir" , "\n")
     def menu2(self):
         while True:
