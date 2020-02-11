@@ -1,4 +1,17 @@
+<<<<<<< HEAD
 magdalena la informatica-magdalena
 magdalena informatica-esther
 herencia-esther
 la ratita presumida-esther
+=======
+Luces de bohemia - Ramon del Valle
+Crimen y castigo - Fedor Dostoievski
+Cien anos de Soledad - Gabriel Garcia Marquez 
+La casa de los espiritus - Isabel Allende 
+Preludio a la fundacion - Isaac Asimov 
+Allende Preludio a la fundacion - Isaac Asimov
+Cumbres borrascosas - Emily Bronteyesid
+El Código Davinci - Dan Brown
+España - Magda
+Las Cenizas de Angela - Isabel Allende
+>>>>>>> bd16e7c49419d8227b1f037a84be9dfc6acff9f2
