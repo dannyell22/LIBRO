@@ -1,15 +1,4 @@
-<<<<<<< HEAD
-111111-luis
-000-000
-blanca nieves-copito de nieve
-=======
-eeee-rrrr
-uuu-iii
-<<<<<<< HEAD
-ffff-uuuu
-rrrrrrrrr-eeeeeeeeee
-=======
-ffff-uuuuu
->>>>>>> df27cf403e56bc6ac5af50867663c1940bb9d8a7
->>>>>>> c8ba02773d6a1f0b611afab45c0986c6c884569a
-dedos-largos
+magdalena la informatica-magdalena
+magdalena informatica-esther
+herencia-esther
+la ratita presumida-esther
