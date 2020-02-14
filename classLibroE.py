@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import os   
 #EMPIEZA LA CLASE
 class Libro:
